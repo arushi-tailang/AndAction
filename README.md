@@ -1,3 +1,5 @@
+<p align="center">
+  <h1 align="center">AndAction</h1>
 <h2 align="center">
   <a href="https://arushi-tailang.github.io/AndAction/">[LIVE APP]</a>
 </h2>
